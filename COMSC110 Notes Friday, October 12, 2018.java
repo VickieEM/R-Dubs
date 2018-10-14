@@ -26,7 +26,7 @@ Constructors
 		Need to define 
 		Need to find 
 
-only one will pe public class if but both are in the same file 
+Only one will pe public class if but both are in the same file 
 	ex.
 		Class - Circle 
 		Public Class - Test Circle 
@@ -45,7 +45,7 @@ Int now new
 
 Constructor has the same name as class 
 
-sin 
+
 
 
 
