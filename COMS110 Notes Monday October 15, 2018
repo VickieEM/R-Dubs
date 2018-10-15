@@ -1,0 +1,61 @@
+*** Code(nam?
+
+object
+	get state
+	change state
+	use to call different functions
+
+	not used - removed by system
+
+	use public to define construvtor
+	use same name as class
+
+	different number
+				type
+				order
+
+
+Other file that creates objects
+
+*** Class??
+
+1st file doesn't have a main method
+recipie - like cake
+won't run
+use ext file
+
+(1st file named Rectangle)
+
+Next file named TestRectangle
+creates instances of first file
+ - creates object of type rectangle
+ 		by calling a constructor on it
+ 		dot operator to access "width' in recipe
+ 			will go to default
+ 			if set to default
+
+ 			access methods (again) on the class by dot operator
+
+
+You would create new (method? box thing to make 2nd, 3rd)
+
+radius
+
+(x,y) are coordiantes 
+
+set radius to 1
+x= 0
+y = 0
+
+sets to origin
+
+now 
+
+can make new
+radius = new radius
+x = newx
+y=newy
+
+sets circle to new radius & orign
+
+any method - use dot to call
